@@ -1,0 +1,6 @@
+# Technology, efficiency, leisure
+
+[[Technology]]
+
+The primary goal of technological advancement should be to increase people's efficiency so that they have more leisure time. (065/[[Statement]])
+

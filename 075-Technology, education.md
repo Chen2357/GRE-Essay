@@ -1,0 +1,7 @@
+# Technology, education
+
+[[Technology]], [[Education]]
+
+Although innovations such as video, computers, and the Internet seem to offer schools improved methods for instructing students, these technologies all too often distract from real learning.
+(075/[[Statement]])
+

@@ -1,0 +1,5 @@
+---
+type: Topic
+---
+
+# Modern society

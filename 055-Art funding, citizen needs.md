@@ -1,0 +1,9 @@
+# Art funding, citizen needs
+
+[[Art]], [[Government]]
+
+Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed. (055/[[Recommendation]])
+
+Claim: Nations should suspend government funding for the arts when significant numbers of their citizens are hungry or unemployed.<br>
+Reason: It is inappropriate--and, perhaps, even cruel--to use public resources to fund the arts when people's basic needs are not being met.
+(062/[[Reason]])

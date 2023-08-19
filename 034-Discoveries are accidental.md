@@ -1,0 +1,8 @@
+# Discoveries are accidental
+
+[[Science]]
+
+Many important discoveries or creations are accidental: it is usually while seeking the answer to one question that we come across the answer to another.
+(034/[[Statement]])
+
+## GRE CAT (Issue 216)

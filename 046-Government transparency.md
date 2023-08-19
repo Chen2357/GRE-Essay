@@ -1,0 +1,8 @@
+# Government transparency
+
+[[Government]]
+
+Some people believe it is often necessary, even desirable, for political leaders to withhold information from the public.
+Others believe that the public has a right to be fully informed.
+(046/[[Alignment]])
+

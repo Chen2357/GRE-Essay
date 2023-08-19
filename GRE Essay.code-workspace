@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"foam.graph.style": {
+			"node": {
+				"Instruction": "#277da1",
+				"Topic": "#a3645a",
+			}
+		},
+		"cSpell.words": [
+			"reimagining"
+		],
+	}
+}
