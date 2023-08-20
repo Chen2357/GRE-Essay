@@ -1,6 +1,6 @@
 # Historic buildings, development
 
-[[Tradition and innovation]]
+[[History and tradition]]
 
 When old buildings stand on ground that modern planners feel could be better used for modern purposes, modern development should be given precedence over the preservation of historic buildings. (093/[[Statement]])
 

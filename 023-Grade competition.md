@@ -1,6 +1,6 @@
 # Grade competition
 
-[[Education]]
+[[Education]], [[Competition and cooperation]]
 
 Competition for high grades seriously limits the quality of learning at all levels of education.
 (023/[[Statement]])

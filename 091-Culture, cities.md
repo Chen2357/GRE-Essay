@@ -1,6 +1,6 @@
 # Culture, cities
 
-[[Culture]]
+[[Modern society]], [[History and tradition]]
 
 It is primarily in cities that a nation's cultural traditions are generated and preserved. (091/[[Statement]])
 

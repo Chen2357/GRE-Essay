@@ -2,4 +2,4 @@
 type: Topic
 ---
 
-# Politics
+# Rationality

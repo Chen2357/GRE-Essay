@@ -1,6 +1,6 @@
 # Wilderness, development
 
-[[Nature]]
+[[Nature conservation]]
 
 Some people claim that a nation's government should preserve its wilderness areas in their natural state.
 Others argue that these areas should be developed for potential economic gain.

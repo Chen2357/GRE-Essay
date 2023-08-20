@@ -1,6 +1,6 @@
 # Mandatory study abroad
 
-[[Education]]
+[[Education]], [[Breadth and depth]]
 
 Colleges and universities should require their students to spend at least one semester studying in a foreign country.
 (057/[[Recommendation]])

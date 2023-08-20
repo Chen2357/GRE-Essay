@@ -1,6 +1,6 @@
 # Progress, contrasting views
 
-[[Keys to success and progress]]
+[[Discourse]]
 
 In any situation, progress requires discussion among people who have contrasting points of view. (012/[[Statement]])
 

@@ -1,6 +1,6 @@
 # Past, present decisions
 
-[[Decision making]]
+[[Rationality]], [[History and tradition]]
 
 Knowing about the past cannot help people to make important decisions today.
 (050/[[Statement]])

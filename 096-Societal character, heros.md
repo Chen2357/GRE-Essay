@@ -1,6 +1,6 @@
 # Societal character, heros
 
-[[Heros and Leaders]]
+[[Leaders and role models]]
 
 The best way to understand the character of a society is to examine the character of the men and women that the society chooses as its heroes or its role models. (096/[[Claim]])
 

@@ -1,6 +1,6 @@
 # Great nation, welfare
 
-[[Modern society]]
+[[Modern society]], [[Government]]
 
 The surest indicator of a great nation is represented not by the achievements of its rulers, artists, or scientists, but by the general welfare of its people.
 (006/[[Statement]])

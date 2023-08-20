@@ -1,6 +1,6 @@
 # Variety of courses
 
-[[Education]], [[Utility and creativity]]
+[[Education]], [[Utility and creativity]], [[Breadth and depth]]
 
 Universities should require every student to take a variety of courses outside the student's field of study.
 (024/[[Recommendation]])

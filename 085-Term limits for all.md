@@ -1,6 +1,6 @@
 # Term limits for all
 
-[[Politics]], [[Education]], [[Government]]
+[[Education]], [[Government]], [[Modern society]]
 
 In any profession — business, politics, education, government — those in power should step down after five years.
 (085/[[Claim]])

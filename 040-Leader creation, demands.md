@@ -1,6 +1,6 @@
 # Leader creation, demands
 
-[[Heros and Leaders]]
+[[Leaders and role models]]
 
 Leaders are created by the demands that are placed on them. (040/[[Statement]])
 

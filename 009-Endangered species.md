@@ -1,6 +1,6 @@
 # Endangered species
 
-[[Nature]]
+[[Nature conservation]]
 
 Society should make efforts to save endangered species only if the potential extinction of those species is the result of human activities.
 (009/[[Policy]])

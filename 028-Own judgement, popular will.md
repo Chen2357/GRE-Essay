@@ -1,6 +1,6 @@
 # Own judgement, popular will
 
-[[Government]], [[Heros and Leaders]]
+[[Government]], [[Leaders and role models]], [[Rationality]]
 
 Government officials should rely on their own judgment rather than unquestioningly carry out the will of the people they serve.
 (028/[[Recommendation]])
