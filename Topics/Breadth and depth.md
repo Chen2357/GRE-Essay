@@ -1,5 +1,5 @@
 ---
-type: topic: Breadth and depth
+type: Topic
 ---
 
 # Breadth and depth
