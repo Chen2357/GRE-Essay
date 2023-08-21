@@ -27,7 +27,7 @@ Pentagon's missile defense system experienced a Y2K-related malfunction.
 This fact was withheld from the public until later in the day, once the problem had been solved; and legitimately so, since immediate disclosure would have served no useful purpose and might even have resulted in mass hysteria.
 
 Having recognized that withholding information from the public is often necessary to serve the interests of that public, legitimate political leadership nevertheless requires forthrightness with the citizenry as to the leader's motives and agenda.
-History informs us that would-be leaders who lack such forthrightness are the same ones who seize and maintain power either by brute force or by demagogy—that is, by deceiving and manipulating the citizenry.
+History informs us that would-be leaders who lack such forthrightness are the same ones who seize and maintain power either by brute force or by demagogy--that is, by deceiving and manipulating the citizenry.
 Paragons such as Genghis Khan and Hitler, respectively, come immediately to mind.
 Any democratic society should, of course, abhor demagogy, which operates against the democratic principle of government by the people.
 Consider also less egregious examples, such as President Nixon's withholding of information about his active role in the Watergate cover-up.
@@ -35,4 +35,4 @@ His behavior demonstrated a concern for self-interest above the broader interest
 
 In sum, the game of politics calls for a certain amount of disingenuousness and lack of forthrightness that we might otherwise characterize as dishonesty.
 And such behavior is a necessary means to the final objective of effective political leadership.
-Nevertheless, in any democracy, a leader who relies chiefly on deception and secrecy to preserve that leadership, to advance a private agenda, or to conceal selfish motives betrays the democracy—and ends up forfeiting the political game.
+Nevertheless, in any democracy, a leader who relies chiefly on deception and secrecy to preserve that leadership, to advance a private agenda, or to conceal selfish motives betrays the democracy--and ends up forfeiting the political game.

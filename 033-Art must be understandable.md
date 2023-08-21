@@ -2,7 +2,7 @@
 
 [[Art]]
 
-In order for any work of art — for example, a film, a novel, a poem, or a song — to have merit, it must be understandable to most people. (033/[[Statement]])
+In order for any work of art -- for example, a film, a novel, a poem, or a song -- to have merit, it must be understandable to most people. (033/[[Statement]])
 
 ## GRE CAT (Issue 218)
 

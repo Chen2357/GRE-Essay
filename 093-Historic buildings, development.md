@@ -8,7 +8,7 @@ When old buildings stand on ground that modern planners feel could be better use
 ## GRE CAT (Issue 26)
 
 The speaker asserts that wherever a practical, utilitarian need for new buildings arises, this need should take precedence over our conflicting interest in preserving historic buildings as a record of our past.
-In my view, however, which interest should take precedence should be determined on a case-by-case basis - and should account not only for practical and historic considerations but also aesthetic ones.
+In my view, however, which interest should take precedence should be determined on a case-by-case basis--and should account not only for practical and historic considerations but also aesthetic ones.
 
 In determining whether to raze an older building, planners should, of course, consider the community's current and anticipated utilitarian needs.
 For example, if an additional hospital is needed to adequately serve the healthcare needs of a fast-growing community, this compelling interest might very well outweigh any interest in preserving a historic building that sits on the proposed site.
@@ -23,9 +23,9 @@ Or perhaps the building once served as the home of a founding family or other si
 Any of these scenarios might justify saving the building at the expense of the practical needs of the community.
 On the other hand, if several older buildings represent the same historical era just as effectively, or if the building's history is unremarkable, then the historic value of the building might pale in comparison to the value of a new structure that meets a compelling practical need.
 
-Also competing with a community's utilitarian needs is the aesthetic and architectural value of the building itself - apart from historical events with which it might be associated.
+Also competing with a community's utilitarian needs is the aesthetic and architectural value of the building itself--apart from historical events with which it might be associated.
 A building might be one of only a few that represents a certain architectural style.
-Or it might be especially beautiful, perhaps as a result of the craftsmanship and materials employed in its construction - which might be cost-prohibitive to replicate today.
+Or it might be especially beautiful, perhaps as a result of the craftsmanship and materials employed in its construction--which might be cost-prohibitive to replicate today.
 Even retrofitting the building to accommodate current needs might undermine its aesthetic as well as historic value by altering its appearance and architectural integrity.
 Of course, it is difficult to quantify aesthetic value and weigh it against utilitarian considerations.
 Yet planners should strive to account for aesthetic value nonetheless.

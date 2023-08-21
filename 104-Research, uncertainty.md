@@ -2,4 +2,4 @@
 type: Redirection
 ---
 
-See [[014-Research, uncertain outcomes]].
+See [[014-Research, uncertainty]].

@@ -5,7 +5,7 @@
 The best way to teach is to praise positive actions and ignore negative ones.
 (002/[[Statement]]) (030/[[Recommendation]])
 
-The best way to teach — whether as an educator, employer, or parent — is to praise positive actions and ignore negative ones.
+The best way to teach -- whether as an educator, employer, or parent -- is to praise positive actions and ignore negative ones.
 (006/[[Claim]])
 
 ## GRE CAT (Issue 228)

@@ -16,14 +16,14 @@ At the same time, however, individual states and communities should have some fr
 A national core curriculum would be beneficial to a nation in a number of respects.
 First of all, by providing all children with fundamental skills and knowledge, a common core curriculum would help ensure that our children grow up to become reasonably informed, productive members of society.
 In addition, a common core curriculum would provide a predictable foundation upon which college administrators and faculty could more easily build curricula and select course materials for freshmen that are neither below nor above their level of educational experience.
-Finally, a core curriculum would ensure that all schoolchildren are taught core values upon which any democratic society depends to thrive, and even survive—values such as tolerance of others with different viewpoints and respect for others.
+Finally, a core curriculum would ensure that all schoolchildren are taught core values upon which any democratic society depends to thrive, and even survive--values such as tolerance of others with different viewpoints and respect for others.
 
 However, a common curriculum that is also an exclusive one would pose certain problems, which might outweigh the benefits noted above.
-First of all, on what basis would certain coursework be included or excluded, and who would be the final decision-maker? In all likelihood, these decisions would be in the hands of federal legislators and regulators, who are likely to have their own quirky notions of what should and should not be taught to 'children'—notions that may or may not reflect those of most communities, schools, or parents.
+First of all, on what basis would certain coursework be included or excluded, and who would be the final decision-maker? In all likelihood, these decisions would be in the hands of federal legislators and regulators, who are likely to have their own quirky notions of what should and should not be taught to 'children'--notions that may or may not reflect those of most communities, schools, or parents.
 Besides, government officials are notoriously susceptible to influence-peddling by lobbyists who do not have the best interests of society's children in mind.
 
-Secondly, an official, federally sanctioned curriculum would facilitate the dissemination of propaganda and other dogma—which, because of its biased and one-sided nature, undermines the very purpose of true education: to enlighten.
-I can easily foresee the banning of certain textbooks, programs, and websites that provide information and perspectives that the government might wish to suppress—as some sort of threat to its authority and power.
+Secondly, an official, federally sanctioned curriculum would facilitate the dissemination of propaganda and other dogma--which, because of its biased and one-sided nature, undermines the very purpose of true education: to enlighten.
+I can easily foresee the banning of certain textbooks, programs, and websites that provide information and perspectives that the government might wish to suppress--as some sort of threat to its authority and power.
 Although this scenario might seem far-fetched, these sorts of concerns are being raised already at the state level.
 
 Thirdly, the inflexible nature of a uniform national curriculum would preclude the inclusion of programs, courses, and materials that are primarily of regional or local significance.
@@ -37,4 +37,4 @@ This problem would only be exacerbated were these decisions left exclusively to 
 
 In the final analysis, homogenization of elementary and secondary education would amount to a double-edged sword.
 While it would serve as an insurance policy against a future populated with illiterates and ignoramuses, at the same time, it might serve to obliterate cultural diversity and tradition.
-The optimal federal approach, in my view, is a balanced one that imposes a basic curriculum yet leaves the rest up to each state—or better yet, to each community.
+The optimal federal approach, in my view, is a balanced one that imposes a basic curriculum yet leaves the rest up to each state--or better yet, to each community.

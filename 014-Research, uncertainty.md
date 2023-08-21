@@ -1,4 +1,4 @@
-# Consequence-based funding
+# Research, uncertainty
 
 [[Government]], [[Science]], [[Utility and creativity]]
 

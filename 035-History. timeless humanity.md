@@ -1,4 +1,4 @@
-# History. timeless humanity
+# History, timeless humanity
 
 [[History and tradition]]
 
