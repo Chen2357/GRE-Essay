@@ -12,7 +12,7 @@ First consider the musical art form.
 The fact that the listener must "understand" the composer's artistic expression without the benefit of words or visual images forces us to ask: "What is there to understand in the first place?"
 Of course, the listener can always struggle to appreciate how the musical piece employs various harmonic, melodic, and rhythmic principles.
 Yet it would be absurd to assert that the objective of music is to challenge the listener's knowledge of music theory.
-In fact,listening to music is simply an encounter--an experience to be accepted at face value for its aural impact on our spirit and our emotions.
+In fact, listening to music is simply an encounter--an experience to be accepted at face value for its aural impact on our spirit and our emotions.
 
 Next consider the art forms of painting and sculpture.
 In the context of these art forms, the speaker seems to suggest that if we cannot all understand what the work is supposed to represent, then we should dismiss the work as worthless.
